@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "elasticsearch",
+  "version": "1.0.0",
+  "description": "Elastic Search skills for Elasticsearch — translate natural language to ES|QL, design indexes and mappings, ingest and reindex data, tune search relevance, optimize queries, detect anomalies, and check cluster health.",
+  "author": {
+    "name": "Elastic",
+    "url": "https://www.elastic.co"
+  },
+  "homepage": "https://github.com/elastic/agent-skills/tree/main/skills/elasticsearch",
+  "repository": "https://github.com/elastic/agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "elasticsearch",
+    "esql",
+    "search",
+    "ingest",
+    "relevance",
+    "elastic"
+  ]
+}
